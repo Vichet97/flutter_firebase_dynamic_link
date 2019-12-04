@@ -1,5 +1,5 @@
 # Google Dynamic Links for Firebase
-**domainURIPrefix ios update fix
+**domainURIPrefix ios update fix**
 [![pub package](https://img.shields.io/pub/v/firebase_dynamic_links.svg)](https://pub.dartlang.org/packages/firebase_dynamic_links)
 
 A Flutter plugin to use the [Google Dynamic Links for Firebase API](https://firebase.google.com/docs/dynamic-links/).
